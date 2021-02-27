@@ -7,3 +7,6 @@ pandas
 scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
+voila
+pillow<7
+packaging
